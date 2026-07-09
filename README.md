@@ -3,7 +3,7 @@
 Examples of technical documentation and communication projects.
  
 ## AcmeLIMS Style Guide for Technical Publications
-[View PDF](ClareMillerchip_StyleGuide)
+[View PDF](ClareMillerchip_StyleGuide.pdf)
 
 ## AcmeLIMS Release Notes
 [View PDF](ClareMillerchip_ReleaseNotes.pdf)
