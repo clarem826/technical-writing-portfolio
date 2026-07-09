@@ -17,8 +17,8 @@ Examples of technical documentation and communication projects.
 
 [View PDF](ClareMillerchip_ReleaseNotes.pdf)
   
-### User Guide Example
+### Configuration Guide Example
 
 - user-guide.md
 
-- PDF Version
+[View PDF](ClareMillerchip_ConfigurationGuide.pdf)
