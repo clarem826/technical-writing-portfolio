@@ -1,0 +1,30 @@
+# Release Notes
+
+## Version 2.1.0
+ 
+Release Date: 15 January 2020
+ 
+## New Features
+ 
+- Added barcode scanning functionality.
+
+- Added contextual help links.
+
+- Added movement reporting.
+
+## Enhancements
+ 
+- Improved audit trail visibility.
+
+- Added default facility settings.
+
+- Enhanced location management.
+
+## Bug Fixes
+- Fixed audit list generation when no records exist.
+
+- Corrected storage location validation.
+
+## Known Issues
+
+- No known issues at the time of release.
