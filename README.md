@@ -1,28 +1,24 @@
 # Technical Writing Portfolio
 
-Examples of technical documentation I have produced, including:
- 
-- Release Notes
-- User Guides
-- Process Documentation
-- Technical Essays
- 
+Examples of technical documentation and communication projects.
 
-## Sample Release Notes
-
+## Projects
  
+### The Place of Diesel Engines in Modern Society
 
-### Version 1.2
+- diesel-essay.md
+
+- PDF Version
 
  
+### Release Notes Example
 
-#### New Features
+- release-notes-v2.1.md
 
-- Added reporting functionality
-- Improved search performance
+- PDF Version
+  
+### User Guide Example
 
- 
+- user-guide.md
 
-#### Bug Fixes
-
-- Corrected export formatting
+- PDF Version
