@@ -11,7 +11,7 @@ Examples of technical documentation and communication projects.
 ## AcmeLIMS Configuration Guide
 [View PDF](ClareMillerchip_ConfigurationGuide.pdf)
 
-## OQ Test Script Exampple
+## OQ Test Script Example
 [View PDF](ClareMillerchip_OQ_Test_Template.pdf)
 
 ## AcmeLIMS API Documentation
