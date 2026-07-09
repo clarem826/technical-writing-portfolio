@@ -1,6 +1,6 @@
 # Technical Writing Portfolio
 
-Examples of technical documentation and communication projects.
+This repository contains examples of technical documentation, release notes and technical communication projects.
  
 ## AcmeLIMS Style Guide for Technical Publications
 [View PDF](ClareMillerchip_StyleGuide.pdf)
