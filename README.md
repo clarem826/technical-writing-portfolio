@@ -15,7 +15,7 @@ Examples of technical documentation and communication projects.
 
 - release-notes-v2.1.md
 
-ClareMillerchip_ReleaseNotes.pdf
+[View PDF](ClareMillerchip_ReleaseNotes.pdf)
   
 ### User Guide Example
 
