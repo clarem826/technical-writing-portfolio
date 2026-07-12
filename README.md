@@ -1,6 +1,6 @@
 # Technical Writing Portfolio
 
-This repository contains examples of technical documentation, release notes and technical communication projects.
+This repository showcases a range of technical writing samples, including software documentation, validation documents, release notes, knowledge base articles, procedural guides, and technical reports. The portfolio includes examples of developer, user, operational, and technical communication materials produced for a variety of audiences and purposes.
  
 ## AcmeLIMS Style Guide for Technical Publications
 Portfolio sample demonstrating documentation standards, topic-based authoring, editorial guidance, visual communication principles, and content governance for technical publications within a fictional Laboratory Information Management System (LIMS). 
