@@ -32,4 +32,4 @@ Portfolio sample showcasing the reconstruction and modernization of a technical 
 
 ## End-of-Day Cashing Up Procedure
 PPortfolio sample demonstrating the creation of a practical cash-handling and cashing-up procedure. The document provides clear, step-by-step instructions for float preparation, banking calculations, and end-of-day cash management, showcasing user-focused procedural writing, process documentation, and instructional design skills.
-[View PDF](Cashing Up Checklist.pdf)
+[View PDF](Cashing%20Up%20Checklist.pdf)
