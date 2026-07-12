@@ -28,7 +28,7 @@ Portfolio sample showcasing validation documentation and OQ testing for an Aliqu
 
 ## The Place of Diesel Engines in Modern Society – A Contemporary Reconstruction
 Portfolio sample showcasing the reconstruction and modernization of a technical report originally produced for a City & Guilds qualification in the communication of technical information. The report examines the role and importance of diesel technology in transport, industry, and everyday life, demonstrating technical research, structured reporting, and technical communication skills.
-[View PDF](THE PLACE OF DIESEL ENGINES IN MODERN SOCIETY.pdf)
+[View PDF](THE%20PLACE%20OF%20DIESEL%20ENGINES%20IN%20MODERN%20SOCIETY.pdf)
 
 ## End-of-Day Cashing Up Procedure
 PPortfolio sample demonstrating the creation of a practical cash-handling and cashing-up procedure. The document provides clear, step-by-step instructions for float preparation, banking calculations, and end-of-day cash management, showcasing user-focused procedural writing, process documentation, and instructional design skills.
